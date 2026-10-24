@@ -1,35 +1,37 @@
 # ⚙️ Mechanical Engineering Knowledge Base
 
-Welcome to the **Mechanical Engineering Knowledge Base** — a growing collection of technical resources, educational content, engineering projects, and practical knowledge covering various fields of mechanical engineering.
+Welcome to the **Mechanical Engineering Knowledge Base**, a growing collection of educational resources, technical knowledge, and practical materials dedicated to mechanical engineering.
 
-This repository serves as a centralized learning hub where engineering concepts are organized, explained, and shared through structured lessons, tutorials, technical documentation, and practical examples. It is designed to support continuous learning, strengthen engineering fundamentals, and bridge the gap between theoretical knowledge and real-world applications.
+This repository brings together my learning resources, engineering content, and educational projects in one organized place. Each main folder focuses on a specific subject, providing structured materials to explore engineering concepts, develop technical skills, and connect theory with practical applications.
 
-## 📚 Topics & Resources
+## 📚 Knowledge Areas
 
-The repository is organized into dedicated folders, each focusing on a specific area of mechanical engineering. New topics and resources will be added over time.
+### 📐 [GD&T — Geometric Dimensioning & Tolerancing](./GD&T/)
 
-- **Geometric Dimensioning & Tolerancing (GD&T):** Educational video courses, technical explanations, engineering drawings, and practical exercises covering geometric tolerances, datums, degrees of freedom, and dimensional control.
-- **Manufacturing Engineering:** Learning resources and technical materials related to manufacturing processes, machining, production methods, and industrial applications.
-- **More Topics Coming Soon:** Additional engineering disciplines, specialized tutorials, technical projects, and practical resources will be added as the knowledge base grows.
+A dedicated section covering Geometric Dimensioning and Tolerancing through educational YouTube courses, technical explanations, engineering drawings, and practical exercises. It explores geometric tolerances, datum systems, degrees of freedom, and the fundamentals of dimensional and geometric control.
 
-## 🎯 Purpose
+### 🏭 [Manufacturing Engineering](./Manufacturing/)
 
-The goal of this project is to build an organized and accessible engineering knowledge base that helps learners, students, and engineering professionals:
+A dedicated section for manufacturing engineering resources, including manufacturing processes, machining techniques, production methods, and related technical concepts. This section aims to build a practical understanding of how engineering designs are transformed into manufactured components.
 
-- Develop a deeper understanding of mechanical engineering concepts.
-- Explore technical subjects through structured educational content.
-- Connect theoretical principles with practical engineering applications.
-- Access useful learning materials, tutorials, and technical references in one place.
-- Follow a continuous journey of learning, experimentation, and knowledge sharing.
+## 🚀 Expanding Knowledge Base
 
-## 🚀 Continuous Development
+This repository is continuously evolving. **GD&T** and **Manufacturing Engineering** are the starting points, with additional folders covering other mechanical engineering disciplines and related technical fields to be introduced over time.
 
-This repository is an ongoing project. Its content will expand gradually as new courses, projects, technical subjects, and educational resources are developed.
+Each new section will help expand this knowledge base into a structured and accessible resource for students, engineers, and anyone interested in mechanical engineering.
 
-Whether you are a mechanical engineering student, a manufacturing enthusiast, or an engineer looking to expand your technical knowledge, you are welcome to explore the resources and follow the project's development.
+## 🎯 Mission
 
-**Learn. Design. Manufacture. Improve.**
+- Organize mechanical engineering knowledge into clearly structured topics.
+- Share educational content, tutorials, and technical resources.
+- Strengthen the connection between engineering theory and industrial practice.
+- Document continuous learning, technical development, and engineering exploration.
 
 ---
 
-*Building a structured knowledge base for mechanical engineering, one topic at a time.*
+**Learn. Design. Manufacture. Improve.**
+
+*Building a comprehensive mechanical engineering knowledge base, one topic at a time.*
+
+**Learn. Design. Manufacture. Improve.**
+
