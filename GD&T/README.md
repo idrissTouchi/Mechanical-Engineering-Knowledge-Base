@@ -29,7 +29,7 @@ The course consists of **15 lessons**. New lessons will be added as they become 
     <td width="33%" align="center" valign="top"> <a href="https://youtu.be/RS42ns2gisU">
       <img src="images/02.jpg" alt="Lesson 02 thumbnail" width="320"></a>
       <h3>Lesson 02</h3>
-      <p>What's the different between GD&t and Traditional tolerancing?</p>
+      <p>What's the Different Between GD&T and Traditional Tolerancing?</p>
       <a href="https://youtu.be/RS42ns2gisU">▶ Watch Lesson</a>
     </td>
     <td width="33%" align="center" valign="top"> <a href="https://youtu.be/mqzdjnOdFbo">
