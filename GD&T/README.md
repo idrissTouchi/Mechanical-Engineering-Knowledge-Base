@@ -35,7 +35,7 @@ The course consists of **15 lessons**. New lessons will be added as they become 
     <td width="33%" align="center" valign="top"> <a href="https://youtu.be/mqzdjnOdFbo">
       <img src="images/03.jpg" alt="Lesson 03 thumbnail" width="320"></a>
       <h3>Lesson 03</h3>
-      <p>Coming Soon</p>
+      <p>GD&T Symbols And Categories Explained</p>
       <a href="https://youtu.be/mqzdjnOdFbo">▶ Watch Lesson</a>
     </td>
   </tr>
@@ -43,7 +43,7 @@ The course consists of **15 lessons**. New lessons will be added as they become 
     <td align="center" valign="top"> <a href="https://youtu.be/16J9y-QDPDs">
       <img src="images/04.jpg" alt="Lesson 04 thumbnail" width="320"></a>
       <h3>Lesson 04</h3>
-      <p>Coming Soon</p>
+      <p>Degrees Of Freedom Explained</p>
       <a href="https://youtu.be/16J9y-QDPDs">▶ Watch Lesson</a>
     </td>
     <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
