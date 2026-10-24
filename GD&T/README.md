@@ -26,83 +26,96 @@ The course consists of **15 lessons**. New lessons will be added as they become 
       <p>Introduction to GD&T</p>
       <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
     </td>
-    <td width="33%" align="center" valign="top">
-      <img src="images/2.jpg" alt="Lesson 02 thumbnail" width="320">
+    <td width="33%" align="center" valign="top"> <a href="https://youtu.be/RS42ns2gisU">
+      <img src="images/02.jpg" alt="Lesson 02 thumbnail" width="320"></a>
       <h3>Lesson 02</h3>
-      <p>Coming Soon</p>
+      <p>What's the different between GD&t and Traditional tolerancing?</p>
+      <a href="https://youtu.be/RS42ns2gisU">▶ Watch Lesson</a>
     </td>
-    <td width="33%" align="center" valign="top">
-      <img src="images/3.jpg" alt="Lesson 03 thumbnail" width="320">
+    <td width="33%" align="center" valign="top"> <a href="https://youtu.be/mqzdjnOdFbo">
+      <img src="images/03.jpg" alt="Lesson 03 thumbnail" width="320"></a>
       <h3>Lesson 03</h3>
       <p>Coming Soon</p>
+      <a href="https://youtu.be/mqzdjnOdFbo">▶ Watch Lesson</a>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <img src="images/4.jpg" alt="Lesson 04 thumbnail" width="320">
+    <td align="center" valign="top"> <a href="https://youtu.be/16J9y-QDPDs">
+      <img src="images/04.jpg" alt="Lesson 04 thumbnail" width="320"></a>
       <h3>Lesson 04</h3>
       <p>Coming Soon</p>
+      <a href="https://youtu.be/16J9y-QDPDs">▶ Watch Lesson</a>
     </td>
-    <td align="center" valign="top">
-      <img src="images/5.jpg" alt="Lesson 05 thumbnail" width="320">
+    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
+      <img src="images/05.jpg" alt="Lesson 05 thumbnail" width="320"></a>
       <h3>Lesson 05</h3>
       <p>Coming Soon</p>
+      <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
     </td>
-    <td align="center" valign="top">
-      <img src="images/6.jpg" alt="Lesson 06 thumbnail" width="320">
+    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
+      <img src="images/06.jpg" alt="Lesson 06 thumbnail" width="320"></a>
       <h3>Lesson 06</h3>
       <p>Coming Soon</p>
+      <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <img src="images/7.jpg" alt="Lesson 07 thumbnail" width="320">
+    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
+      <img src="images/07.jpg" alt="Lesson 07 thumbnail" width="320"></a>
       <h3>Lesson 07</h3>
       <p>Coming Soon</p>
+      <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
     </td>
-    <td align="center" valign="top">
-      <img src="images/8.jpg" alt="Lesson 08 thumbnail" width="320">
+    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
+      <img src="images/08.jpg" alt="Lesson 08 thumbnail" width="320"></a>
       <h3>Lesson 08</h3>
       <p>Coming Soon</p>
+      <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
     </td>
-    <td align="center" valign="top">
-      <img src="images/9.jpg" alt="Lesson 09 thumbnail" width="320">
+    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
+      <img src="images/09.jpg" alt="Lesson 09 thumbnail" width="320"></a>
       <h3>Lesson 09</h3>
       <p>Coming Soon</p>
+      <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <img src="images/10.jpg" alt="Lesson 10 thumbnail" width="320">
+    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
+      <img src="images/10.jpg" alt="Lesson 10 thumbnail" width="320"></a>
       <h3>Lesson 10</h3>
       <p>Coming Soon</p>
+      <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
     </td>
-    <td align="center" valign="top">
-      <img src="images/11.jpg" alt="Lesson 11 thumbnail" width="320">
+    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
+      <img src="images/11.jpg" alt="Lesson 11 thumbnail" width="320"></a>
       <h3>Lesson 11</h3>
       <p>Coming Soon</p>
+      <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
     </td>
-    <td align="center" valign="top">
-      <img src="images/12.jpg" alt="Lesson 12 thumbnail" width="320">
+    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
+      <img src="images/12.jpg" alt="Lesson 12 thumbnail" width="320"></a>
       <h3>Lesson 12</h3>
       <p>Coming Soon</p>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <img src="images/13.jpg" alt="Lesson 13 thumbnail" width="320">
+    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
+      <img src="images/13.jpg" alt="Lesson 13 thumbnail" width="320"></a>
       <h3>Lesson 13</h3>
       <p>Coming Soon</p>
+      <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
     </td>
-    <td align="center" valign="top">
-      <img src="images/14.jpg" alt="Lesson 14 thumbnail" width="320">
+    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
+      <img src="images/14.jpg" alt="Lesson 14 thumbnail" width="320"></a>
       <h3>Lesson 14</h3>
       <p>Coming Soon</p>
+      <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
     </td>
-    <td align="center" valign="top">
-      <img src="images/15.jpg" alt="Lesson 15 thumbnail" width="320">
+    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
+      <img src="images/15.jpg" alt="Lesson 15 thumbnail" width="320"></a>
       <h3>Lesson 15</h3>
       <p>Coming Soon</p>
+      <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
     </td>
   </tr>
 </table>
