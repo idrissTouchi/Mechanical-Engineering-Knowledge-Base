@@ -46,11 +46,11 @@ The course consists of **15 lessons**. New lessons will be added as they become 
       <p>Degrees Of Freedom Explained</p>
       <a href="https://youtu.be/16J9y-QDPDs">▶ Watch Lesson</a>
     </td>
-    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
+    <td align="center" valign="top"> <a href="https://youtu.be/Dln7TnHoYb0">
       <img src="images/05.jpg" alt="Lesson 05 thumbnail" width="320"></a>
       <h3>Lesson 05</h3>
-      <p>Coming Soon</p>
-      <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
+      <p>Everything About Datums</p>
+      <a href="https://youtu.be/Dln7TnHoYb0">▶ Watch Lesson</a>
     </td>
     <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
       <img src="images/06.jpg" alt="Lesson 06 thumbnail" width="320"></a>
