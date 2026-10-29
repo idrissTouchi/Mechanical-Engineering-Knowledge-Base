@@ -52,11 +52,11 @@ The course consists of **15 lessons**. New lessons will be added as they become 
       <p>Everything About Datums</p>
       <a href="https://youtu.be/Dln7TnHoYb0">▶ Watch Lesson</a>
     </td>
-    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
+    <td align="center" valign="top"> <a href="https://youtu.be/ppt4sLyYH4M">
       <img src="images/06.jpg" alt="Lesson 06 thumbnail" width="320"></a>
       <h3>Lesson 06</h3>
-      <p>Coming Soon</p>
-      <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
+      <p>How to Read a Feature Control Frame (FCF)</p>
+      <a href="https://youtu.be/ppt4sLyYH4M">▶ Watch Lesson</a>
     </td>
   </tr>
   <tr>
