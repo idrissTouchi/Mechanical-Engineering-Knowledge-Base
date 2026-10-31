@@ -60,11 +60,11 @@ The course consists of **15 lessons**. New lessons will be added as they become 
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
+    <td align="center" valign="top"> <a href="https://youtu.be/1MX5iRB6b7k">
       <img src="images/07.jpg" alt="Lesson 07 thumbnail" width="320"></a>
       <h3>Lesson 07</h3>
-      <p>Coming Soon</p>
-      <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
+      <p>MMC vs LMC vs RFS Explained | Bonus Tolerance in GD&T</p>
+      <a href="https://youtu.be/1MX5iRB6b7k">▶ Watch Lesson</a>
     </td>
     <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
       <img src="images/08.jpg" alt="Lesson 08 thumbnail" width="320"></a>
