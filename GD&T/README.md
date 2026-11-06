@@ -66,25 +66,25 @@ The course consists of **15 lessons**. New lessons will be added as they become 
       <p>MMC vs LMC vs RFS Explained | Bonus Tolerance in GD&T</p>
       <a href="https://youtu.be/1MX5iRB6b7k">▶ Watch Lesson</a>
     </td>
-    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
+    <td align="center" valign="top"> <a href="https://youtu.be/NBpg_eRzvo0">
       <img src="images/08.jpg" alt="Lesson 08 thumbnail" width="320"></a>
       <h3>Lesson 08</h3>
-      <p>Coming Soon</p>
-      <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
+      <p>Maximum Material Boundary (MMB) and Datum Shift Explained</p>
+      <a href="https://youtu.be/NBpg_eRzvo0">▶ Watch Lesson</a>
     </td>
-    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
+    <td align="center" valign="top"> <a href="https://youtu.be/hhEx3doyJ_8">
       <img src="images/09.jpg" alt="Lesson 09 thumbnail" width="320"></a>
       <h3>Lesson 09</h3>
-      <p>Coming Soon</p>
-      <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
+      <p>GD&T Inspection Tools Explained</p>
+      <a href="https://youtu.be/hhEx3doyJ_8">▶ Watch Lesson</a>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
+    <td align="center" valign="top"> <a href="https://youtu.be/SztrtAA3OJE">
       <img src="images/10.jpg" alt="Lesson 10 thumbnail" width="320"></a>
       <h3>Lesson 10</h3>
-      <p>Coming Soon</p>
-      <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
+      <p>16 Rules of GD&T Explained</p>
+      <a href="https://youtu.be/SztrtAA3OJE">▶ Watch Lesson</a>
     </td>
     <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
       <img src="images/11.jpg" alt="Lesson 11 thumbnail" width="320"></a>
