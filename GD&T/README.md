@@ -98,26 +98,6 @@ The course consists of **15 lessons**. New lessons will be added as they become 
       <p>GD&T Review Test | Get a Certificate! Then Update Your CV</p>
     </td>
   </tr>
-  <tr>
-    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
-      <img src="images/13.jpg" alt="Lesson 13 thumbnail" width="320"></a>
-      <h3>Lesson 13</h3>
-      <p>Coming Soon</p>
-      <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
-    </td>
-    <td align="center" valign="top"> <a href="https://youtu.be/kGcXkpJFgqY">
-      <img src="images/14.jpg" alt="Lesson 14 thumbnail" width="320"></a>
-      <h3>Lesson 14</h3>
-      <p>Coming Soon</p>
-      <a href="https://youtu.be/kGcXkpJFgqY">▶ Watch Lesson</a>
-    </td>
-    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
-      <img src="images/15.jpg" alt="Lesson 15 thumbnail" width="320"></a>
-      <h3>Lesson 15</h3>
-      <p>Coming Soon</p>
-      <a href="https://youtu.be/kGcXkpJFgqY">▶ Watch Lesson</a>
-    </td>
-  </tr>
 </table>
 
 ## 📁 GDT_Illustrated_Study_Guide
