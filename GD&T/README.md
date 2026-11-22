@@ -120,8 +120,9 @@ The course consists of **15 lessons**. New lessons will be added as they become 
   </tr>
 </table>
 
-## 📁 Repository Structure
-GDT_Illustrated_Study_Guide
+## 📁 GDT_Illustrated_Study_Guide
+
+📄 [Read it here](GDT_Illustrated_Study_Guide.pdf)
 
 ## 🛠️ About This Project
 
