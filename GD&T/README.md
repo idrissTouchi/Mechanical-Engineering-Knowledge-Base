@@ -86,16 +86,16 @@ The course consists of **15 lessons**. New lessons will be added as they become 
       <p>16 Rules of GD&T Explained</p>
       <a href="https://youtu.be/SztrtAA3OJE">▶ Watch Lesson</a>
     </td>
-    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
+    <td align="center" valign="top"> <a href=" https://youtu.be/vZldrIz4SNU">
       <img src="images/11.jpg" alt="Lesson 11 thumbnail" width="320"></a>
       <h3>Lesson 11</h3>
-      <p>Coming Soon</p>
-      <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
+      <p>The best website for GD&T training</p>
+      <a href=" https://youtu.be/vZldrIz4SNU">▶ Watch Lesson</a>
     </td>
     <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
       <img src="images/12.jpg" alt="Lesson 12 thumbnail" width="320"></a>
-      <h3>Lesson 12</h3>
-      <p>Coming Soon</p>
+      <h3> GD&T Interview Test</h3>
+      <p>GD&T Review Test | Get a Certificate! Then Update Your CV</p>
     </td>
   </tr>
   <tr>
@@ -105,17 +105,17 @@ The course consists of **15 lessons**. New lessons will be added as they become 
       <p>Coming Soon</p>
       <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
     </td>
-    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
+    <td align="center" valign="top"> <a href="https://youtu.be/kGcXkpJFgqY">
       <img src="images/14.jpg" alt="Lesson 14 thumbnail" width="320"></a>
       <h3>Lesson 14</h3>
       <p>Coming Soon</p>
-      <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
+      <a href="https://youtu.be/kGcXkpJFgqY">▶ Watch Lesson</a>
     </td>
     <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
       <img src="images/15.jpg" alt="Lesson 15 thumbnail" width="320"></a>
       <h3>Lesson 15</h3>
       <p>Coming Soon</p>
-      <a href="https://youtu.be/-uu09VnR4PU">▶ Watch Lesson</a>
+      <a href="https://youtu.be/kGcXkpJFgqY">▶ Watch Lesson</a>
     </td>
   </tr>
 </table>
@@ -123,6 +123,10 @@ The course consists of **15 lessons**. New lessons will be added as they become 
 ## 📁 GDT_Illustrated_Study_Guide
 
 📄 [Read it here](GDT_Illustrated_Study_Guide.pdf)
+
+## 📄 GD&T Review Test | Get a Certificate! Then Update Your CV
+
+📄 [Do It Here](https://idrisstouchi.gumroad.com/l/cgwpsn)
 
 ## 🛠️ About This Project
 
