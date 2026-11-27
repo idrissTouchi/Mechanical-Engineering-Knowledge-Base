@@ -93,7 +93,7 @@ The course consists of **15 lessons**. New lessons will be added as they become 
       <a href="https://youtu.be/vZldrIz4SNU">▶ Watch Lesson</a>
     </td>
     <td align="center" valign="top"> <a href="https://youtu.be/kGcXkpJFgqY">
-      <img src="images/12.jpg" alt="Lesson 12 thumbnail" width="320"></a>
+      <img src="images/12.png" alt="Lesson 12 thumbnail" width="320"></a>
       <h3> GD&T Interview Test</h3>
       <p>GD&T Review Test | Get a Certificate! Then Update Your CV</p>
       <a href="https://youtu.be/kGcXkpJFgqY">▶ Watch Vedio</a>
@@ -101,7 +101,7 @@ The course consists of **15 lessons**. New lessons will be added as they become 
   </tr>
    <tr>
     <td align="center" valign="top"> <a href="https://youtu.be/h_Ed_1YVzmY">
-      <img src="images/13.jpg" alt="Lesson 10 thumbnail" width="320"></a>
+      <img src="images/13.png" alt="Lesson 10 thumbnail" width="320"></a>
       <h3>Full Course</h3>
       <p>All The Lessons In One Vedio</p>
       <a href="https://youtu.be/h_Ed_1YVzmY">▶ Watch Course</a>
