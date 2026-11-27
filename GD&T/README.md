@@ -90,12 +90,13 @@ The course consists of **15 lessons**. New lessons will be added as they become 
       <img src="images/11.jpg" alt="Lesson 11 thumbnail" width="320"></a>
       <h3>Lesson 11</h3>
       <p>The best website for GD&T training</p>
-      <a href=" https://youtu.be/vZldrIz4SNU">▶ Watch Lesson</a>
+      <a href="https://youtu.be/vZldrIz4SNU">▶ Watch Lesson</a>
     </td>
-    <td align="center" valign="top"> <a href="https://youtu.be/-uu09VnR4PU">
+    <td align="center" valign="top"> <a href="https://youtu.be/kGcXkpJFgqY">
       <img src="images/12.jpg" alt="Lesson 12 thumbnail" width="320"></a>
       <h3> GD&T Interview Test</h3>
       <p>GD&T Review Test | Get a Certificate! Then Update Your CV</p>
+      <a href="https://youtu.be/kGcXkpJFgqY">▶ Watch Vedio</a>
     </td>
   </tr>
 </table>
