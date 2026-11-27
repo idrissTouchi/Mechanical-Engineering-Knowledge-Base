@@ -86,7 +86,7 @@ The course consists of **15 lessons**. New lessons will be added as they become 
       <p>16 Rules of GD&T Explained</p>
       <a href="https://youtu.be/SztrtAA3OJE">▶ Watch Lesson</a>
     </td>
-    <td align="center" valign="top"> <a href=" https://youtu.be/vZldrIz4SNU">
+    <td align="center" valign="top"> <a href="https://youtu.be/vZldrIz4SNU">
       <img src="images/11.jpg" alt="Lesson 11 thumbnail" width="320"></a>
       <h3>Lesson 11</h3>
       <p>The best website for GD&T training</p>
